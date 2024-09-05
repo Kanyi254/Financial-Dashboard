@@ -24,3 +24,23 @@ Ensure you have pip installed, then run:
 bash
 pip install -r requirements.txt
 ```
+### Usage
+run bokeh
+```{batch}
+bokeh serve --show main.py
+```
+### License
+This project is licensed under the Apache2.0 License. See the LICENSE file for details.
+
+### Contributing
+Feel free to open issues or submit pull requests to improve this project. Contributions are welcome!
+
+Contact
+For any questions or issues, please contact kanyibrandon@gmail.com.
+
+
+
+
+
+
+
