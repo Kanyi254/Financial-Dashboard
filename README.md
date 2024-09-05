@@ -5,7 +5,7 @@ Create an environment
 Activate your environment
 Install Dependencies
 Ensure you have pip installed, then run:
-'''python
+' ' 'python
 bash
 pip install -r requirements.txt
 '''
