@@ -29,6 +29,16 @@ run bokeh
 ```{batch}
 bokeh serve --show main.py
 ```
+use short forms for stock names like Apple = AAPL, Tesla = TSLA
+![Alt text](path/to/image)
+![Alt text](path/to/image)
+![Alt text](path/to/image)
+![Alt text](path/to/image)
+![Alt text](path/to/image)
+![Alt text](path/to/image)
+![Alt text](path/to/image)
+![Alt text](path/to/image)
+
 ### License
 This project is licensed under the Apache2.0 License. See the LICENSE file for details.
 
