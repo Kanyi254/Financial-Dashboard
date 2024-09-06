@@ -30,14 +30,11 @@ run bokeh
 bokeh serve --show main.py
 ```
 use short forms for stock names like Apple = AAPL, Tesla = TSLA
-![Alt text](Financial-Dashboard/1.jpg)
-![Alt text](path/to/image)
-![Alt text](path/to/image)
-![Alt text](path/to/image)
-![Alt text](path/to/image)
-![Alt text](path/to/image)
-![Alt text](path/to/image)
-![Alt text](path/to/image)
+![Alt text](1.jpg)
+![Alt text](2.jpg)
+![Alt text](3.jpg)
+![Alt text](4.png)
+![Alt text](5.png)
 
 ### License
 This project is licensed under the Apache2.0 License. See the LICENSE file for details.
